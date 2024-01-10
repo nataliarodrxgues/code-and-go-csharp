@@ -7,10 +7,16 @@
 ## 💻 Sobre o projeto
 Code and Go! Viagens é um projeto que simula uma agencia de viagens desenvolvido durante o Bootcamp **Recode Pro 2023** para formação de desenvolvedores de softwares fullstack oferecido pela [Recode](https://recodepro.org.br).  <br>
 
-## 🛠 Tecnologias
+Você encontrará uma api em C# com a tabela Viagem, tendo seu id, destino, preco e URL da imagem referente. Existem 4 ids gerados para auto preenchimento de banco de dados visando a rapidez de teste.
 
+Na pasta consume-api, você encontrará um modelo em Nextjs pronto para consumir, mostrando-as na tela de forma rápida de objetiva visando cumprir com o requisito do desafio de mostrar um GET em Nextjs.
+
+## 🛠 Tecnologias
+### **Frontend** 
+-   **Next.js**
+    
 ### **Backend** 
--  **Next.js**
+-  **SQL**
 -  **C#**
 
 ## 👩🏼‍💻 Autora 
